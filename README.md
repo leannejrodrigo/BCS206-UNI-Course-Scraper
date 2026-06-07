@@ -61,7 +61,7 @@ CUD-Offerings-Scraper/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/CUD-Offerings-Scraper.git
+git clone https://github.com/leannejrodrigo/CUD-Offerings-Scraper.git
 cd CUD-Offerings-Scraper
 pip install -r requirements.txt
 ```
