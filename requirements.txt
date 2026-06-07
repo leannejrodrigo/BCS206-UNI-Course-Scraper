@@ -1,0 +1,7 @@
+streamlit
+browser-use
+langchain-google-genai
+langchain-ollama
+pydantic
+python-dotenv
+pandas
